@@ -1,18 +1,22 @@
-# Stockatro — build
+# Stockatro Builds
 
-Le build scaricabili di **Stockatro**, un roguelike di borsa.
-Il gioco si scarica dalla pagina: <https://stockatro.web.app>
+Downloadable builds of Stockatro, a stock market roguelike.
 
-Qui non c'è codice sorgente: questo repo esiste solo per ospitare i file delle
-[release](https://github.com/npanu420/stockatro-builds/releases/latest), che
-GitHub serve senza limiti di banda.
+For information about the game, screenshots, and the latest news, visit the official page: https://stockatro.web.app
 
-## Come si installa
+This repository contains no source code. Its only purpose is to host release files on GitHub, which provides unlimited bandwidth for downloads.
 
-**Android** — scarica `Stockatro.apk`. Android blocca l'installazione da fuori
-del Play Store: al primo tentativo ti chiede di autorizzare il browser in
-Impostazioni, poi l'installazione prosegue.
+## Installation
 
-**Windows** — scarica `Stockatro-windows.zip` ed estrai la cartella, poi avvia
-`Stockatro.exe`. L'eseguibile carica i dati da `Stockatro.pck`, che deve restare
-nella stessa cartella: se sposti solo l'exe, il gioco non parte.
+**Android**
+Download `Stockatro.apk`. Android blocks installation from outside the Play Store by default. On the first attempt, you will be asked to allow the browser to install unknown apps in Settings. Approve this, then the installation will proceed normally.
+
+**Windows**
+Download `Stockatro-windows.zip` and extract the folder, then run `Stockatro.exe`. The executable loads its data from `Stockatro.pck`, which must remain in the same folder. If you move only the executable, the game will not start.
+
+**macOS**
+Download `Stockatro.dmg` and open it, then drag `Stockatro.app` into the Applications folder. Since the app is not signed with a paid Apple Developer certificate, macOS Gatekeeper will flag it as coming from an unidentified developer. Right click the app, select Open, and confirm in the dialog that appears. This step is only required on first launch.
+
+## Releases
+
+All builds are available on the [latest release page](https://github.com/npanu420/stockatro-builds/releases/latest).
