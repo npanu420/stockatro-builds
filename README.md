@@ -17,6 +17,10 @@ Download `Stockatro-windows.zip` and extract the folder, then run `Stockatro.exe
 **macOS**
 Download `Stockatro.dmg` and open it, then drag `Stockatro.app` into the Applications folder. Since the app is not signed with a paid Apple Developer certificate, macOS Gatekeeper will flag it as coming from an unidentified developer. Right click the app, select Open, and confirm in the dialog that appears. This step is only required on first launch.
 
+**iOS**
+Use the TestFlight link to join the Stockatro Beta - There is a limited number of testers; first come, first served.
+
+
 ## Releases
 
 All builds are available on the [latest release page](https://github.com/npanu420/stockatro-builds/releases/latest).
